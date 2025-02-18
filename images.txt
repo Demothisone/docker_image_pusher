@@ -4,3 +4,4 @@ python:3.8-slim
 jenkins/jenkins:2.346.1-lts
 jenkins/jenkins:lts
 nginx
+python:3.9.0
