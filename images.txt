@@ -1,4 +1,4 @@
-whyour/qinglong:latest
+whyour/qinglong:debian
 baiyuetribe/kamifaka:latest
 python:3.8-slim
 jenkins/jenkins:2.346.1-lts
